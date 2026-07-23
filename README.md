@@ -124,10 +124,17 @@ A real-time platform connecting people with nearby help — built for fast, loca
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/shikharkesarwani2006-design/shikharkesarwani2006-design/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
-> 💡 To activate this, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your `shikharkesarwani2006-design/shikharkesarwani2006-design` profile repo — it auto-generates this SVG daily from your real contribution graph.
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shikharkesarwani2006-design/shikharkesarwani2006-design/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shikharkesarwani2006-design/shikharkesarwani2006-design/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation"
+       src="https://raw.githubusercontent.com/shikharkesarwani2006-design/shikharkesarwani2006-design/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 <br/>
 
