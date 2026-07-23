@@ -37,6 +37,22 @@
 
 <br/>
 
+## 💻 Competitive Programming
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CodeChef-550%2B%20Problems%20Solved-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-3★-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contest%20Rating-1688-blue?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-110%2B%20Problems%20Solved-yellow?style=for-the-badge&logo=leetcode&logoColor=black" />
+</p>
+
+<p align="center">
+  🚀 Solving Data Structures & Algorithms problems consistently and actively participating in coding contests.
+</p>
+
 ## 🚀 Featured Projects
 
 <table>
