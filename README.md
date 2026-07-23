@@ -122,10 +122,6 @@ A real-time platform connecting people with nearby help — built for fast, loca
 <a href="mailto:shikharkesarwani2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-<div align="center">
-<img src="https://visitcount.itsvg.in/api?id=shikharkesarwani2006-design&icon=0&color=6" alt="Visitor Count" />
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C4CC&height=100&section=footer" width="100%"/>
 
 <!-- Proudly customized from a GPRM base (https://gprm.itsvg.in) -->
