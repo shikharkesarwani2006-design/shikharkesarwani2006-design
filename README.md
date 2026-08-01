@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:00C4CC,100:7B61FF&height=230&section=header&text=Shikhar%20Kesarwani&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Competitive%20Programmer&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:00C4CC,100:7B61FF&height=230&section=header&text=Shikhar%20Kesarwani&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20CyberSecurity%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20AI/ML&descAlignY=55&descSize=17" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1200&color=00C4CC&center=true&vCenter=true&width=680&lines=Full+Stack+Developer;AI+Builder;Competitive+Programmer;Building+Real-World+Solutions;Open+Source+Learner;Turning+Ideas+Into+Products" alt="Typing SVG" />
 
@@ -27,6 +27,8 @@ role:
   - Full Stack Developer
   - AI Builder
   - Competitive Programmer
+  - AI/ML engineer
+  - CyberSecurity
 education: "B.Tech, Electronics & Communication Engineering"
 currently_learning:
   - Full Stack Development
