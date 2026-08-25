@@ -74,7 +74,7 @@ open_to: "Collaboration on impactful, real-world tech"
 | Platform | Rating / Level | Problems Solved |
 |:---:|:---:|:---:|
 | 🍫 [CodeChef](https://www.codechef.com/users/keen_mellow_85) | ⭐⭐⭐ 3★ — 1688 | 600+ |
-| 🟠 [LeetCode](https://leetcode.com/u/ZWMFbwab95/) | Active Solver | 150+ |
+| 🟠 [LeetCode](https://leetcode.com/u/ZWMFbwab95/) | Active Solver | 250+ |
 
 </div>
 
